@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2017-04-28
-title: "Immersions"
-permalink: immersions
-categories:
+title: "Context Changes"
+permalink: context-changes
+categories: social
 comments: true
 ---
 
