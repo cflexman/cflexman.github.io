@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2017-04-29
-title:  "Multi-disciplinary research in the Internet Age"
+date:   2017-07-25
+title:  "Multi-Disciplinary Research in the Internet Age"
 permalink: multi-disciplinary
 categories: knowledge
 comments: true
