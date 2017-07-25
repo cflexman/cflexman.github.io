@@ -1,0 +1,27 @@
+---
+layout: post
+date:   2017-04-29
+title:  "Formalizing Sociology"
+permalink: formal
+categories: knowledge
+comments: true
+---
+
+Let there be multiple agents A_i
+Each agent has a utility function U_i that takes as arguments the degrees of freedom of the environment x in E
+U_i are different, so A_i must trade off values of x to achieve a Pareto-optimal alignment
+They can communicate to each other about x using x_c
+Changing x_c has costs
+The protocol for interpreting x_c will therefore be relatively information-efficient
+Different A_i will have higher VOI on communicating about different x, so the x_c interpretation protocol will be different
+Then it is easier to communicate with agents that share a similar protocol and beneficial to get others to share your protocol
+If it is easy for many agents to share x_c, the network will become dense and the protocol will converge for many x_c
+Agents will try to change the converged protocol for their purposes because of a multipolar prisoners' dilemma (this is Alicorn's "memetic commons")
+
+
+
+
+
+othing to see here, [nothing at all][conspiracy]. Can you even see `this`?
+
+[conspiracy]: http://www.thebayesianconspiracy.com/
