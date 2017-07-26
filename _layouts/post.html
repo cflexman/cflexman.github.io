@@ -13,8 +13,6 @@ comments: true
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  {% include disqus_comments.html %}
   <script id="dsq-count-scr" src="//nearlynetpositive.disqus.com/count.js" async></script>
 </article>
