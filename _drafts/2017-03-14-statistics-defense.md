@@ -11,6 +11,7 @@ Fermi estimates as a defense against BS statistics
 (reference to 533 decillion stat in Intelligent Investor commentary, pg 150)
 
 Main way to guard against BS statistics is to MAKE SURE EVERYTHING IS RELATIVE. Is it a percent of something else? If not, get the fuck out
+See: http://www.pewhispanic.org/2011/04/26/the-latino-electorate-in-2010-more-voters-more-non-voters/
 
 othing to see here, [nothing at all][conspiracy]. Can you even see `this`?
 
