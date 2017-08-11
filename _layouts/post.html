@@ -13,24 +13,6 @@ comments: true
     {{ content }}
   </div>
 
-	{% if page.comments != false and jekyll.environment == "production" %}
-	  <div id="disqus_thread"></div>
-	  <script>
-	    var disqus_config = function () {
-	      this.page.url = '<?php echo get_permalink(); ?>';
-	      this.page.identifier = '<?php echo dsq_identifier_for_post($post); ?>';
-	    };
-
-	    (function() {
-	      var d = document, s = d.createElement('script');
-	      s.src = 'nearlynetpositive.disqus.com/embed.js';
-	      s.setAttribute('data-timestamp', +new Date());
-	      (d.head || d.body).appendChild(s);
-	    })();
-	  </script>
-	  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-	{% endif %}
-
   {% include disqus_comments.html %}
   <script id="dsq-count-scr" src="//nearlynetpositive.disqus.com/count.js" async></script>
 </article>
