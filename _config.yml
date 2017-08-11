@@ -33,7 +33,7 @@ exclude:
 
 # comments
 disqus:
-    shortname: connor_flexman
+    shortname: nearlynetpositive
 
 # Analytics
 google_analytics: UA-NNNNNNNN-N
