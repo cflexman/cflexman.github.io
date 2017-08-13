@@ -1,0 +1,63 @@
+---
+layout: post
+date:   2017-08-11
+title:  "Celebrate Good Times, Come On People"
+permalink: celebrate
+categories: cogsci, sociology
+comments: true
+---
+
+I.
+
+CBT and anyone with a yoga mat will tell us that gratitude journaling makes a real, positive difference. Something about spending more time thinking about things that make us happy makes us happier. 
+
+But I shouldn't be so glib—gratitude journaling overcomes a real barrier. We all want to spend more time thinking happy thoughts, but it's hard to just "have a more positive outlook". Many of us have attempted and given up on that idea, because it fails at both concreteness criteria of [good mental modifications][TAPs]: there is no concrete trigger, so it requires near-constant cognitive policing effort at the beginning (infeasible with a job or other attention-demanding responsibilities), and there is no concrete action, as it doesn't provide any easy default positive thought once you've identified a sub-par cognitive situation.
+
+Gratitude journaling is easy to trigger because you can just do it every night before bed or something. And the action is very concrete: you have to write out some number of things you are grateful for. This is easy to implement, at least as far as any reflection is. But it's also effective, which is somewhat more surprising.
+
+The benefits of gazing around at the world all day in a haze of bliss are obvious, but it's not so clear that a few minutes writing down good things would provide a measurable increase in well-being. My model is this: after running a search algorithm on positive events and mind-states, tagging them and reminding yourself of their existence, and finally writing them down, you've strengthened their prominence in your episodic memory. And looking back more fondly upon your past also tints your view of the future, both via emotional association and Bayesian updating on the data sample.
+
+So we can get a measurable effect by essentially doing a single spaced repetition of positive events and a tiny bit of extra association and mental computation on them. Can we do better?
+
+II.
+
+A first stab at a scaled-up version might go something like this. Let's add more spaced repetition: we'll have to think about our chosen positives several different times. Let's add more mental computation: maybe make jokes about them, or tell them in a story, or find ways to bring them up out of context, or make art about them. Let's add more association: tie the idea of the positives to expensive objects, or emotionally-laden experiences, or shiny spectacles, or big life events. And lastly, let's keep the counterfactual cost down by bundling all of these with stuff we were already going to do.
+
+Sounds an awful lot like a celebration.
+
+A typical party lasts at least a few hours, giving time for a few rounds of spaced repetition. Festivals like Saturnalia lasted a few days, and Hanukkah lasts 8. Advent calendars run for 25.
+
+At weddings, long toasts are made. At college theme parties, jokes are made and the topic is repeatedly resurrected. At Passover, there are readings. For Christmas, decorations are set out and sermons are attended. At Rationalist Solstice, songs are sung and stories are read.
+
+Gifts are a staple of celebrations and festivals throughout history; feasts and lavish drinks likewise. Spectacles, dancing, and shiny decorations are a theme of many. Ancient festivals more often featured especially intense associations driven by sex and drugs, whereas now we tend to seek these experiences outside of our holidays. But we still use celebrations to drive narrative associations to our important milestones.
+
+I think you might be able to make a realistic attempt at scaling up the positive associations gained from gratitude journaling by means other than a celebration. One might lean heavily into the spaced repetition part, and just do a lot more gratitude journaling. One might go the route of artistic association and permanent reminder, and create art about the positive events. But no matter what you call it, it seems like any serious attempt to combine multiple scaled-up facets will result in something that can more-or-less be classified as a celebration.
+
+III.
+
+I think we as a modern society are frustratingly bad at celebrations, and I don't know what to blame it on. 
+
+A lot of fantasy books or old epic poems paint a picture of a romantic world overflowing with meaning, but a lot of the things that initially seem romantic turn out to be difficult to implement in a modern, progressive, industrialized society. Opulence of kings? Not if you're not in the 0.1%. Trusty loyal followers? Not unless you're an actual cult leader. Unique artisanal gifts? Not unless you seek far and wide and are then willing to lose half the value at purchase. You can't follow ancient traditions, you can't find an out-group to honorably despise, you can't risk yourself to protect your loved ones, and you can't interweave eloquently-told stories into your dialogue with a stranger or they will walk away. One of the only things we can still do is to celebrate the things we care about. *And we don't do it.*
+
+We do passably at actually assigning celebrations: occasional religious festivals, recurring birthdays and anniversaries and national celebrations, and one-off celebrations for weddings and baby showers and maybe even large business projects completed. But I think as a society, we fail both at implementing these large celebrations and at assigning small-scale celebrations.
+
+(This is necessarily going to be tinted by my own experience, which is at the very least non-standard. I'll try my best to at least fairly characterize Western societies, and let me know if you think widespread experience differs.)
+
+Implementation is difficult. I don't have a silver bullet for this one, but a lot of larger celebrations seem specifically empty in a way that I'm not sure they used to. American Independence day does a very good job with fireworks and feasting and drinking, and some weddings do well at keeping a lot of associations to the couple's love on tap, but birthdays especially seem very underwhelming. One birthday in college was a particular shock to me because it was the first time I could remember that everyone seemed to be actually 
+really focused on the positive traits of the birthdayee for a significant amount of time (and we had prepared anecdotes about him beforehand). Later at Event Horizon, my rationalist group house, we started a ritual where the birthdayee would say their favorite thing about every year of their life, sometimes devolving into long stories or Q&A—and while it's sometimes difficult to keep everyone's attention for such lengths of time, I really felt the distinction from most birthdays where it feels at best like an excuse to throw a party and at worst a burden of planning and social convention.
+
+In this vein, it seems like the primary problem most larger celebrations face is in getting attendees to really appreciate the object of celebration. One problem may be that fewer hierarchies and leader-sponsored celebrations (either religious or micropolitical) mean that it's difficult to keep a schedule of activities that glorify the object, or similarly that rhetorical skill has decreased to the point where it is more difficult to keep an audience rapt enough to conjure within their minds the same appreciation and awe and meaning that a dedicated festival is owed. This is only one hypothesis—it's also entirely plausible that there is some deeper loss of accessible societal meaning, or that I am undersensitive to most people's meaning, or that we need more artwork that inspires celebratory focus, or just need more expense for celebrations to be powerful (though cf. expensive weddings—seems unlikely). In general, it seems we are in some way dropping the ball on many larger celebrations in a way that is maybe giving the whole class an underwhelming association, because—
+
+Let's talk about small-scale celebrations. Many children are told over and over that if Christmas came every day, it wouldn't be special, and that's true. But if we steelman the child's viewpoint a bit—maybe it's best that a big holiday like Christmas be once a year, and even that there be less than one big holiday per month, but are we sure that there should be so little in the vast wasteland between gratitude journaling or compliments and full-on birthday celebrations? Some people have little celebrations, it's true. My mom would sometimes make a special dinner when something good happened, and people often say prayers before meals professing gratefulness to God (or other things they are thankful for, in the Unitarian modification). People start to move toward small celebrations when they go out for drinks with friends or take Sunday to relax. But this honestly seems so weak.
+
+Every day, most people have at least some relaxing time at night or do something positive. Every week, most people have at least one night socializing and one meal they are excited for. Many people have at least a few days a month where they do something special, whether it be playing video games for hours or going to bars or going on a trip. There is a lot of positive affect that could have more associations built to it.
+
+My reversal test is this: imagine you come from a world where on top of dedicating every dinner to gratefulness to God, you dedicate every lunch to the end of widespread violence. Every night you get to relax a bit by reading or television or something, but if you accomplished something you're proud of that day you also get to have your favorite snack. Every time you have a drink, you toast to something that actually brings meaning to your life. Every time you go out, you and all your friends consecrate the night to something one of you accomplished since last time. Every time you have a serious weekend party, you theme it, and you theme it as something important to you, e.g. Game of Thrones or the technological future or human empathy or your friend Kurt's amazing Spotify playlist named The Fire that's searchable under the user spot2718, and you put up posters that remind people of it, and all your guests lean in and make funny references to the theme all night long, and when they toast they relate stories of the glory of the referent of the theme. Every time you make a large purchase, you do it to celebrate a happening or you consecrate it to a human dignity or, if the purchase is itself the special thing, you pour a libation to it and break it in at your next small social event. And instead of each person having one birthday a year, which you may not be able to attend, you can occasionally dedicate social events to a person themselves. 
+
+This is a lot. It might get exhausting pretty fast, especially if you were asked to do too much for theme parties. But if a visitor to Earth's Western societies came from that world, they might be aghast at how blasé we acted about everything. They'd see that we had literally never toasted a drink to the author whose beautiful words brought us so much of our own narrative. Our weeks would seem to blend together to them without any celebration of our accomplishments. There would be a conspicuous lack of meaning when we ate our favorite food, our parties would have a glaring hole at the center, and our objects would stand alone, devoid of associations. They'd wonder how we ever built up enough associations to remember to be grateful to anything, much less shared our gratefulness as common knowledge with our community.
+
+Everything is a spectrum, and turning the dial on microcelebrations up to 1 is unlikely to be best. But right now our microcelebrations are almost at 0, and I claim that this is the wrong setting for our society. With n=1, I can say that attempting some of these celebrations was genuinely life-improving. Obviously this might be my own quirk: the fact that the entire nation is completely failing to improve their lives in this relatively simple way certainly brings the efficient market hypothesis to mind. And of course there are a ton of ways to make small celebrations dumb, and forcing them will probably backfire in the same way that forced birthdays can. But trying to scale gratitude journaling in some way—some personalized variant of microcelebrations a few times a week, or the occasional honorific party and dedicated drinks—seems to have a high potential reward at very low cost. CFAR says try things.
+
+
+
+[TAPs]: http://lesswrong.com/r/discussion/lw/o7c/making_intentions_concrete_triggeraction_planning/
