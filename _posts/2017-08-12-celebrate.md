@@ -23,7 +23,7 @@ II.
 
 A first stab at a scaled-up version might go something like this. Let's add more spaced repetition: we'll have to think about our chosen positives several different times. Let's add more mental computation: maybe make jokes about them, or tell them in a story, or find ways to bring them up out of context, or make art about them. Let's add more association: tie the idea of the positives to expensive objects, or emotionally-laden experiences, or shiny spectacles, or big life events. And lastly, let's keep the counterfactual cost down by bundling all of these with stuff we were already going to do.
 
-Sounds an awful lot like a celebration.
+Celebrations fulfill a lot of these desiderata.
 
 A typical party lasts at least a few hours, giving time for a few rounds of spaced repetition. Festivals like Saturnalia lasted a few days, and Hanukkah lasts 8. Advent calendars run for 25.
 
