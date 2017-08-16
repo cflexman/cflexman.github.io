@@ -34,6 +34,9 @@ We can talk about whether, even if we are simulated, the fact that the simulator
 We can talk about which universe is most likely to be simulating us, and how many other simulations they could probably run (hint, lots)
 We can talk about what values evolution is likely to cause to prevail in those universes, and why we are being simulated
 We can talk about what implications these have on how to keep our sim running (or whether we need to, given measure considerations); are they potentially running us as the UNSONG god, creating all positive universes? By which values might they be measuring good?
+What happens when someone simulates a universe that already exists elsewhere? Does it add extra measure?
+Is there a UTM that is running all universes, or, why should the existence of math describing relations between things mean that those relations exist somewhere?
+If lots of universes exist, there are almost definitely all sorts of varied gods that actually intervene all the time, and we can maybe figure out whether we're likely to have a god or gods or not
 
 
 
