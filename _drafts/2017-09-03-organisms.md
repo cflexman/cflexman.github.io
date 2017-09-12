@@ -1,0 +1,1 @@
+What defines an organism? Ants could be one by one definition. Should clarify info proc system and goals and things
