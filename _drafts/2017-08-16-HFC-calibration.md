@@ -42,15 +42,15 @@ All the quantitative economic considerations yield about a 6% chance that Brazil
 
 Eliezer Yudkowsky always talks about how most of the informational work in a prediction goes into promoting the right hypothesis to attention out of all the possibilities. If someone is looking for buried treasure and they point over yonder and say, "What if we try digging there?", you'd expect that to have an absurdly miniscule chance out of all the locations in the world—unless there was a large amount of evidence favoring that location over any of the others. If the prospector doesn't have any evidence and digs anyways, they would be committing the fallacy of [privileging the hypothesis][PTH]).
 
-On the other hand, if someone comes up to you and says, "do you want to make a bet that there is a blue rock with an X painted on it buried right over there?" and offers you odds of a million to one for, you might not want to calculate out that the chances are 10^-14 and take up their bet excitedly. By offering the bet, they are giving you strong information that there is indeed such a rock there. There is an "adversarial" nature to betting: bettors try to find specific questions on which you are badly calibrated or have poor information relative to them.
+On the other hand, if someone comes up to you and says, "do you want to make a bet that there is a blue rock with an X painted on it buried right over there?" and offers you odds of a million to one for, you might not want to calculate out that the chances are 10^-14 and take up their bet excitedly. By offering the bet, they are giving you strong information that there is indeed such a rock there. There is an "adversarial" nature to betting: bettors try to find specific questions on which you are badly calibrated or have poor information relative to them, similar to a dynamic selection bias for your weak spots.
 
 Like in betting, the fact that HFC is asking this question about Brazil's economy provides information that should change your probability estimate. They are promoting it to attention over the other countries in South America, and now you have to decide how much to weight that fact. Did they really roll a die and choose a uniformly random country to ask about, or did they choose a country in which something notable happened?
 
-In general, the latter strategy is "adversarial" on their part—systematically causing you to give wrong answers if not corrected. If the sample of questions is non-random and weighted toward notable events, then your answers will systematically be overconfident against these events occurring unless you correct for this unknown sample bias.
+In general, the latter strategy is "adversarial" on their part—systematically causing you to give wrong answers if not corrected. Notable events tend to be ones that have low probability assigned to them beforehand. Then if a sample of questions is weighted toward notable events, your answers will systematically underestimate them (be overconfident that they won't occur), unless you correct for this unknown sample bias.
 
-In my analysis, I tried to consider past questions they've been asking, and figure out how random those were. It's really hard to tell, because I can't look anything up and find out whether the questions were non-random or not—and the few that I could identify as non-random then left me guessing whether only those 10% were non-random or whether the rest were in fact the same.
+In my analysis, I tried to partially correct for this by considering past questions they'd been asking, and figuring out how random those were. It's really hard to tell, because I couldn't look anything up and find out whether the questions were non-random or not—and the few that I could positively identify as non-random then left me guessing whether only those 10% were non-random or whether the rest were the same.
 
-Ultimately, I had to put about a 30% chance on the question being non-random, and 50% chance on it being true if non-random, so after multiplying these I added about 15% to my original 6% probability.
+Ultimately, I had to put about a 30% chance on the question being non-random, and 50% chance on it being true if non-random, so after multiplying these I added about 15% to my original 6% probability. The rest of the analysis hardly mattered compared to the adversarial consideration.
 
 And it turns out that Brazil had -3.5% GDP growth, but Suriname had -7% or something and saved me, which looks an awful lot like their question wasn't random after all.
 
@@ -74,11 +74,24 @@ This opens a Pandora's box of issues in adversarial testing: is the base rate of
 
 IV.
 
-Again, both non-random question selection and the burden of distinguishing truthfulness of details could be said to be part of a forecaster's duty. Nonetheless, they add enormous amounts of variance to the test compared to the underlying knowledge. For many of the questions, I was moving my answer more by trying to update on the algorithm of the question-selectors than I was from my analysis of the geopolitical questions themselves. 
+Again, both non-random question selection and the burden of distinguishing truthfulness of details could be said to be part of a forecaster's duty. 
+Unfortunately, even if you did want to test for these things, this probably isn't the way to do it.
 
-I would very roughly estimate that about 50% of my variance was from fundamental analysis, 30% was from the evidence of the question being asked, and another 20% was from details and various other adversarial considerations. 
+With the original test, you can use the Brier score as a proxy for geopolitical knowledge. And you can straightforwardly test calibration/overconfidence by ensuring about 70% of questions given 70% confidence are gotten right, etc. These don't get in each other's way, and provide strong quantified estimates of the participant's epistemics.
+
+On the other hand, these 
 
 
+
+Nonetheless, they add enormous amounts of variance to the test compared to the underlying knowledge. For many of the questions, I was moving my answer more by trying to update on the algorithm of the question-selectors than I was from my analysis of the geopolitical questions themselves. I would very roughly estimate that about 50% of my variance was from fundamental analysis, 30% was from the evidence of the question being asked, and another 20% was from details and various other adversarial considerations. 
+
+
+
+
+
+Let's assume for now that the primary aim of these questions was to determine geopolitical knowledge and/or calibration and overconfidence on generic factual questions.
+
+In this case, not only 
 
 
 
