@@ -9,7 +9,7 @@ comments: true
 
 Whatever my other conflicting desires, I am incredibly serious about not wanting my friends to die. So should we as individuals be taking any action for personal safety in response to recent news about North Korea hitting new nuclear weapons milestones?
 
-The short answer is probably not. You should definitely not leave the West Coast. You could make a simple necessities stockpile or start learning basic survival skills for a post-EMP world if the opportunity cost is very low and it makes you feel better. I will probably not do these things. I may consider taking a stay in Australia if Kim Jong Un suddenly switches from appearing to act rationally to appearing very disturbed or irrational. I may revise these decisions based on new information from others. Skip to Section IV for a barely extended version of the conclusion.
+The short answer is probably not. You should definitely not leave the West Coast. You could make a simple necessities stockpile or start learning basic survival skills for a post-EMP world if the opportunity cost is very low and it makes you feel better. I will not do these things. I may consider taking a stay in Australia in the unlikely scenario where Kim Jong Un suddenly switches from appearing to act rationally to appearing very disturbed or irrational. I may revise these decisions based on new information from others. Skip to Section IV for the conclusion.
 
 I. Capabilities
 
