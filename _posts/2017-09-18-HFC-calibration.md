@@ -1,8 +1,8 @@
 ---
 layout: post
 date:   2017-08-15
-title:  ""
-permalink: 
+title:  "Beware Noise Correlated Across Predictions"
+permalink: correlated-noise
 categories: predictions
 comments: true
 ---
