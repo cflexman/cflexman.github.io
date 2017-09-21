@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2017-08-15
+date:   2017-09-18
 title:  "Beware Noise Correlated Across Predictions"
 permalink: correlated-noise
 categories: predictions
