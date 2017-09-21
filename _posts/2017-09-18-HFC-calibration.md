@@ -13,7 +13,7 @@ If you're interested in participating in the Hybrid Forecasting Challenge (HFC),
 
 ------
 
-###I.
+### I.
 
 Their questionnaire collects the standard data on you: an IQ proxy, a quantitative intelligence proxy, attitude toward thinking, attitude toward changing your mind, and *something else*.
 
